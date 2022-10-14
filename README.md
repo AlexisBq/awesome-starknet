@@ -195,7 +195,7 @@
 ## Tools
 
 #### General
-- [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Browser extension wallet.
+- [Braavos](https://braavos.app/download/) - Browser extension & mobile wallet.
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
